@@ -1,0 +1,19 @@
+*{padding: 0;
+  margin:0;
+  box-sizing: border-box;
+
+  
+  font-weight: 900;
+}
+.content{
+
+  display: flex;
+}
+.left{
+  width:30%;
+}
+.right{
+  width:70%;
+}
+
+

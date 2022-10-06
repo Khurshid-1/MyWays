@@ -1,0 +1,17 @@
+.weekday{
+    display: flex;
+    flex-basis: auto;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: 10%;
+}
+.imgsize{
+max-width: 7vw;
+}
+.cardsize{
+    height: 10em;
+    width: 6em;
+    background-color: rgba(230, 228, 181,0.4);
+    margin: 0 0.3em;
+    border-radius: 10px;
+}

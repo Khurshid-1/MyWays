@@ -1,0 +1,12 @@
+.imgsize1{
+    height: 40vh;
+}
+.leftt{
+    text-align: center;
+    background-color: rgba(230, 228, 181,0.4);
+    padding-bottom: 3rem;
+    font-size: 1.9em;
+}
+.lefttitle{
+    font-size: 3.5rem;
+}
